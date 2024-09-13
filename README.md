@@ -1,4 +1,4 @@
-![Breaking Plaid Logo](https://github.com/BreakingPlaid/.github/BreakingPlaidLogo.jpg)
+![Breaking Plaid Logo](https://github.com/BreakingPlaid/BreakingPlaidLogo.jpg)
 
 # Welcome to Our Data Science Enthusiasts Group!
 Thank you for visiting our GitHub page. We are passionate data science enthusiasts dedicated to taking data projects seriously. Our goal is to work through various data projects, courses, and stay updated on the latest advancements in the field.
