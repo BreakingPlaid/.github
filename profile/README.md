@@ -9,7 +9,7 @@
 
 🍿 Fun facts - When we tell people we genuinely love data, we get told to "get a life." So, we took it literally and started seriously playing with data.
 
-🧙 Hope this helps you with your data journey.
+🧙 Hope this helps you with your journey.
 
 ## Join Us
 If you share our interest in data science and want to be part of our journey, please reach out to us via email at [BlevinsJonny@gmail.com](mailto:BlevinsJonny@gmail.com).
