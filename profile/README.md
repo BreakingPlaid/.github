@@ -14,4 +14,4 @@
 ## Join Us
 If you share our interest in data science and want to be part of our journey, please reach out to us via email at [BlevinsJonny@gmail.com](mailto:BlevinsJonny@gmail.com).
 
-Let's explore the world of data science together!
+Let's explore the world of programming and data science together.
