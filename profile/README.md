@@ -3,11 +3,11 @@
 # Welcome to Our Data Science Enthusiasts Group!
 👋 Thank you for visiting our GitHub page.
 
-🙋‍♀ A short introduction - Breaking Plaid is a group dedicated to data science. We are passionate data science enthusiasts dedicated to taking data projects seriously.
+🙋‍♀ Breaking Plaid is a group dedicated to data science. We are passionate data science enthusiasts dedicated to taking data projects seriously.
 
-🌈 Contribution guidelines - It's welcome to anyone, and there are no set assignments. The only guideline is to be respectful.
+🌈 It's welcome to anyone, and there are no set assignments. The only guideline is to be respectful.
 
-🍿 Fun facts - When we tell people we genuinely love data, we get told to "get a life." So, we took it literally and started seriously playing with data.
+🍿 When we tell people we genuinely love data, we get told to "get a life." So, we took it literally and started seriously playing with data.
 
 🧙 Hope this helps you with your journey.
 
