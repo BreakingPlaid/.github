@@ -1,6 +1,6 @@
 ![Breaking Plaid Logo](https://github.com/BreakingPlaid/.github/raw/main/BreakingPlaidLogo.jpg)
 
-# Welcome to Our Data Science Enthusiasts Group!
+# Welcome to Our Tech Enthusiast Group!
 👋 Thank you for visiting our GitHub page.
 
 🙋‍♀ Breaking Plaid is a group dedicated to data science. We are passionate data science enthusiasts dedicated to taking data projects seriously.
