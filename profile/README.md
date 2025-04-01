@@ -1,4 +1,4 @@
-![Breaking Plaid Logo](https://github.com/BreakingPlaid/.github/raw/main/BreakingPlaidLogo.jpg)
+We're rebranding! 😂
 
 # Welcome to Our Tech Enthusiast Group!
 👋 Thank you for visiting our GitHub page.
